@@ -5,8 +5,8 @@ url: "http://augusto-garcia.github.io" # the base hostname & protocol for your s
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Type Theme
-  avatar: avatar.png
+  title: Departamento de Genética, ESALQ/USP
+  avatar: img/avatar.png
   gravatar: # email md5 hash
   description: "A website with blog posts and pages" # used by search engines
   
