@@ -10,7 +10,7 @@ lacinia consectetur. Donec ut libero sed arcu vehicula ultricies a non
 tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Aenean ut gravida lorem. $A_x$ or $$A_x$$.
 
-{% include katex_import.html %} 
+
 ... content of post here
 
 {% raw %}
@@ -18,15 +18,10 @@ Aenean ut gravida lorem. $A_x$ or $$A_x$$.
 <div class="equation" data-expr="\displaystyle P(x)=\frac{1}{\sigma\sqrt{2\pi}}e^{-\frac{(x-\mu)^2}{2\sigma ^2}}"></div>
 {% endraw %}
 
-<div class="equation" data-expr="\displaystyle
-P(x)=\frac{1}{\sigma\sqrt{2\pi}}e^{-\frac{(x-\mu)^2}{2\sigma
-^2}}"></div>
-
-<div class="equation" data-expr="...."></div>
 
 ... more content
 
-{% include katex_render.html %} 
+
 
 * Consectetur adipiscing elit
 * Donec a diam lectus
