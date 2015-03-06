@@ -8,20 +8,7 @@ hendrerit. Donec et mollis dolor. Praesent et diam eget libero egestas
 mattis sit amet vitae augue. Nam tincidunt congue enim, ut porta lorem
 lacinia consectetur. Donec ut libero sed arcu vehicula ultricies a non
 tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Aenean ut gravida lorem. $A_x$ or $$A_x$$.
-
-
-... content of post here
-
-{% raw %}
-<!-- The Normal Distribution -->
-<div class="equation" data-expr="\displaystyle P(x)=\frac{1}{\sigma\sqrt{2\pi}}e^{-\frac{(x-\mu)^2}{2\sigma ^2}}"></div>
-{% endraw %}
-
-
-... more content
-
-
+Aenean ut gravida lorem.
 
 * Consectetur adipiscing elit
 * Donec a diam lectus
@@ -39,15 +26,3 @@ Etiam luctus porttitor lorem, sed suscipit est rutrum non. Curabitur lobortis ni
 
 Phasellus eget dolor sit amet ipsum dapibus condimentum vitae quis lectus. Aliquam ut massa in turpis dapibus convallis. Praesent elit lacus, vestibulum at malesuada et, ornare et est. Ut augue nunc, sodales ut euismod non, adipiscing vitae orci. Mauris ut placerat justo. Mauris in ultricies enim. Quisque nec est eleifend nulla ultrices egestas quis ut quam. Donec sollicitudin lectus a mauris pulvinar id aliquam urna cursus. Cras quis ligula sem, vel elementum mi. Phasellus non ullamcorper urna.
 
-
-<script type="text/javascript">
-
-    // grab all elements in DOM with the class 'equation'
-    var tex = document.getElementsByClassName("equation");
-
-    // for each element, render the expression attribute
-    Array.prototype.forEach.call(tex, function(el) {
-        katex.render(el.getAttribute("data-expr"), el);
-    });
-
-</script>
