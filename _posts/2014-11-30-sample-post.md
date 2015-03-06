@@ -12,9 +12,12 @@ Aenean ut gravida lorem. $A_x$ or $$A_x$$.
 
 {% include katex_import.html %} 
 ... content of post here
-<div class="equation" data-expr="...."></div>
-<div class="equation" data-expr="...."></div>   
+
+<div class="equation" data-expr="x^2"></div>
+<div class="equation" data-expr="x"></div>   
+
 ... more content
+
 {% include katex_render.html %} 
 
 * Consectetur adipiscing elit
