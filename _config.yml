@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/Biometria-de-Marcadores/" # the subpath of your site, e.g. /blog/
+baseurl: "/Biometria-de-Marcadores" # the subpath of your site, e.g. /blog/
 url: "http://augusto-garcia.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
@@ -18,13 +18,15 @@ theme:
 
      <p>Disciplina de Doutorado, Programa de Pós-graduação em Genética
      e Melhoramento de Plantas (ESALQ/USP)</p>
+
+     <p>Responsável: Prof. Dr. Antonio Augusto Franco Garcia</p>
      
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
   
   # Icons
   rss: false
-  email_address: # full email address, e.g. "sam@example.com"
+  email_address: "augusto.garcia@usp.br" # full email address, e.g. "sam@example.com"
   behance:
   bitbucket: 
   dribbble: 
