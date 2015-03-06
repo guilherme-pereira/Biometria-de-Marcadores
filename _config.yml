@@ -6,7 +6,7 @@ url: "http://augusto-garcia.github.io" # the base hostname & protocol for your s
 theme:
   # Meta
   title: LGN 5830 - Biometria de Marcadores Genéticos
-  avatar: avatar.png
+  avatar: # avatar.png
   gravatar: # email md5 hash
   description: "Genética Estatística, Pós-graduação em Genética e
   Melhoramento de Plantas" # used by search engines
@@ -25,7 +25,7 @@ theme:
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
   
   # Icons
-  rss: false
+  rss: true
   email_address: "augusto.garcia@usp.br" # full email address, e.g. "sam@example.com"
   behance:
   bitbucket: 
