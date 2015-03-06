@@ -8,7 +8,14 @@ hendrerit. Donec et mollis dolor. Praesent et diam eget libero egestas
 mattis sit amet vitae augue. Nam tincidunt congue enim, ut porta lorem
 lacinia consectetur. Donec ut libero sed arcu vehicula ultricies a non
 tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Aenean ut gravida lorem. $A_x$ or $$A_x$$
+Aenean ut gravida lorem. $A_x$ or $$A_x$$.
+
+{% include katex_import.html %} 
+... content of post here
+<div class="equation" data-expr="...."></div>
+<div class="equation" data-expr="...."></div>   
+... more content
+{% include katex_render.html %} 
 
 * Consectetur adipiscing elit
 * Donec a diam lectus
