@@ -13,11 +13,12 @@ theme:
   
   # Header and footer text
   header_text: >
-     <p>LGN 5830 - Biometria de Marcadores Genéticos</p>
-     
      <p>Mapas Genéticos, Mapeamento de QTLs, Mapeamento Associativo,
      Seleção Genômica</p>
 
+     <p>Disciplina de Doutorado, Programa de Pós-graduação em Genética
+     e Melhoramento de Plantas (ESALQ/USP)</p>
+     
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
   
