@@ -13,8 +13,13 @@ Aenean ut gravida lorem. $A_x$ or $$A_x$$.
 {% include katex_import.html %} 
 ... content of post here
 
-<div class="equation" data-expr="x^2"></div>
-<div class="equation" data-expr="x"></div>   
+{% raw %}
+<!-- The Normal Distribution -->
+<div class="equation" data-expr="\displaystyle P(x)=\frac{1}{\sigma\sqrt{2\pi}}e^{-\frac{(x-\mu)^2}{2\sigma ^2}}"></div>
+{% endraw }
+
+<div class="equation" data-expr="...."></div>
+<div class="equation" data-expr="...."></div>   
 
 ... more content
 
