@@ -67,7 +67,3 @@ sass:
   sass_dir: _sass
   style: :compressed
 
-
-<!-- KaTeX -->
-<link rel="stylesheet" href="/public/path/to/katex.min.css">
-<script src="/public/path/to/katex.min.js"></script>
