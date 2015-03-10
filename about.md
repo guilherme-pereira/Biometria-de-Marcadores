@@ -2,7 +2,7 @@
 layout: page
 title: Descrição
 permalink: /descrição/
-feature-img: "img/LogoAboutPage.png"
+feature-img: "img/FundoAzul.png"
 ---
 
 # LGN 5830 - Biometria de Marcadores Genéticos
