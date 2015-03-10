@@ -1,14 +1,7 @@
-# Type Theme
+# LGN 5830 - Biometria de Marcadores Genéticos
 
-![Default Type Theme blog](https://cloud.githubusercontent.com/assets/816965/5142407/19742e48-71d6-11e4-8d9d-fdfe010784f0.png)
 
-A free and open-source [Jekyll](http://jekyllrb.com) theme. Great for blogs and easy to customize.
-
-## Get Started
-
-[Demo](https://rohanchandra.github.io/type-theme/)
-
-[Using Type](https://rohanchandra.github.io/project/type/)
 
 ## License
-The MIT License (MIT)
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Biometria de Marcadores Genéticos</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="http://augusto-garcia.github.io/Biometria-de-Marcadores/" property="cc:attributionName" rel="cc:attributionURL">Antonio Augusto Franco Garcia</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons - Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional</a>.
