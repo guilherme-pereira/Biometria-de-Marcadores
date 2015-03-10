@@ -1,6 +1,14 @@
 # LGN 5830 - Biometria de Marcadores Genéticos
 
 
+## Docente Responsável
+
+Antonio Augusto Franco Garcia
+
+## Objetivos:
+
+Fornecer subsídios para que os alunos consigam analisar, interpretar e incorporar as informações fornecidas pelos marcadores genéticos em pesquisas de genética quantitativa e melhoramento de plantas.
+
 
 ## License
 
