@@ -5,8 +5,17 @@ permalink: /descrição/
 feature-img: "img/sample_feature_img_2.png"
 ---
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+# LGN 5830 - Biometria de Marcadores Genéticos
 
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
+Disciplina de Pós-graduação, nível doutorado, oferecida pelo
+[Programa de Pós-graduação em Genética e Melhoramento de Plantas](http://www.genetica.esalq.usp.br/pggmp.php),
+[Departamento de Genética](http://www.genetica.esalq.usp.br/),
+[ESALQ/USP](http://www4.esalq.usp.br/).
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+## Docente Responsável
+
+Antonio Augusto Franco Garcia
+
+## Objetivos:
+
+Fornecer subsídios para que os alunos consigam analisar, interpretar e incorporar as informações fornecidas pelos marcadores genéticos em pesquisas de genética quantitativa e melhoramento de plantas.
