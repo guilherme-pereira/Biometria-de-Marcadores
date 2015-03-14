@@ -8,6 +8,9 @@ derivadas. Na próxima semana, o assunto será concluído.
 
 **_Objetivo: revisar, através de exercícios, conhecimentos básicos sobre funções,  derivadas e integrais, permitindo que os alunos entendam como obter pontos de máximo de funções e calcular áreas sob curvas._**
 
+**Arquivos para download:** [Versão completa]({{ http://augusto-garcia.github.io/Biometria-de-Marcadores/2015/03/11/Aula%201%20(Revis%C3%A3o%20de%20C%C3%A1lculo).html }}/pdfs/aula1.pdf) e [para impressão].
+
+
 ## Referências
 
 [1] L. Leithold, O cálculo com geometria analítica, Editora Harbra, 1994.
