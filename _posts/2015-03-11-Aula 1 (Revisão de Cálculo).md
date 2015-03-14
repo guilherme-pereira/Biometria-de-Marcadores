@@ -8,7 +8,7 @@ derivadas. Na próxima semana, o assunto será concluído.
 
 **_Objetivo: revisar, através de exercícios, conhecimentos básicos sobre funções,  derivadas e integrais, permitindo que os alunos entendam como obter pontos de máximo de funções e calcular áreas sob curvas._**
 
-**Arquivos para download:** [Versão completa](/Biometria-de-Marcadores/pdfs/aula1.pdf) e [para impressão](/Biometria-de-Marcadores/pdfs/aula1_imprimir.pdf).
+_Arquivos para download:_ [Versão completa](/Biometria-de-Marcadores/pdfs/aula1.pdf) e [para impressão](/Biometria-de-Marcadores/pdfs/aula1_imprimir.pdf).
 
 
 ## Referências
