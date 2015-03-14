@@ -78,26 +78,3 @@ Obs: $$log_{10}2=0.30$$ e  $$log_{10}3=0,47$$
 
 - $$f(x)=3x^8-4x^3+x^2-1 $$
 
-- $$f(x)=(2x-x^2)^3 $$
-
-- $$f(x)=(x^2+2x)(3x+1) $$
-
-- $$f(x)=\dfrac{2x+3}{3x-2} $$
-
-- $$f(x)=\log_3(x^3+1) $$
-
-- $$f(x)=\log_{10}\dfrac{2x}{1+x} $$
-
-- $$f(x)=\log_e(2x+3) $$
-
-- $$f(x)=\log_e(x^2+2x+3) $$
-
-- $$f(x)=\log_e(2-3x)^5 $$
-
-5) Determine os pontos de máximo e de mínimo relativos das funções abaixo. Esboce os gráficos usando algum sistema computacional.
-
-- $$f(x)=x^4-6x^2 $$
-
-- $$f(x)=4x^3-3x^4 $$
-
-- $$f(x)=x^3+x^2-x+1 $$
