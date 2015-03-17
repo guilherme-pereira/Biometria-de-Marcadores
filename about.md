@@ -16,6 +16,10 @@ Disciplina de Pós-graduação, nível doutorado, oferecida pelo
 
 Antonio Augusto Franco Garcia
 
+Página pessoal: [http://docentes.esalq.usp.br/aafgarci/](http://docentes.esalq.usp.br/aafgarci/)
+
+Laboratório de Genética Estatística: [http://statgen.esalq.usp.br](http://statgen.esalq.usp.br)
+
 ## Objetivos:
 
 Fornecer subsídios para que os alunos consigam analisar, interpretar e incorporar as informações fornecidas pelos marcadores genéticos em pesquisas de genética quantitativa e melhoramento de plantas.
