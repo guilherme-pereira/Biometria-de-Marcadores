@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Aula 2 - Verossimilhança
+title: Aula 2 - Verossimilhança (e R)
 ---
 
 Foram apresentadas ideias sobre probabilidades, distribuições de
@@ -116,7 +116,7 @@ No Starch Press, Inc., 2011, p. 404.
 
 ## Exercícios
 
-### Prazo: 25/03/2015, até a meia-noite.
+### Prazo: 26/03/2015, até a meia-noite.
 
 6) Visite o tutorial
 [Introduction to R](http://augusto-garcia.github.io/R-Introduction/).
@@ -130,18 +130,14 @@ Aproveite para tirar suas dúvidas.
 
 ---
 
-8) Leia o primeiro capítulo do livro indicado em [8].
-
----
-
-9) Leia o Apêndice A e os capítulos de 1 a 3 do texto
+8) Leia o Apêndice A e os capítulos de 1 a 3 do texto
 "[An Introduction to R](http://cran.r-project.org/doc/manuals/r-release/R-intro.pdf)",
 disponível no site do programa. Pratique usando o RStudio. Compartilhe
 sua experiência no Fórum.
 
 ---
 
-10) Procure no site do R ou na internet algum tutorial, apostila ou
+9) Procure no site do R ou na internet algum tutorial, apostila ou
 vídeo(s) que apresente(m) uma introdução ao software. Após
 ler/assistir o material, divida sua experiência com os colegas usando
 o Fórum, recomendando (ou não) o que encontrou. Seu texto deve ter no
