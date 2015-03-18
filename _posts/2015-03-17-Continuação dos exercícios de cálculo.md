@@ -5,7 +5,7 @@ title: Continuação da Aula 1
 
 ## Exercícios
 
-### Prazo: 20/03/2015, até a meia-noite.
+### Prazo: 23/03/2015, até a meia-noite.
 
 Os exercícios devem ser enviados por email, conforme apresentado na
 aula (veja
@@ -29,6 +29,8 @@ aula (veja
 
 - $$f(x)=\log_e(2-3x)^5$$
 
+---
+
 2) Determine os pontos de máximo e de mínimo relativos das funções abaixo. Esboce os gráficos usando algum sistema computacional.
 
 - $$f(x)=x^4-6x^2$$
@@ -37,6 +39,7 @@ aula (veja
 
 - $$f(x)=x^3+x^2-x+1$$
 
+---
 
 3) Calcule:
 
@@ -49,6 +52,8 @@ aula (veja
 - $$\int (31x^{32}+4x^3-9x^4) dx $$
 
 - $$\int 5x^{-2} dx $$
+
+---
 
 4) Calcule a área delimitada pela curvas abaixo.
 

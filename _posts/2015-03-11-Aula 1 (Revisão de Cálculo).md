@@ -42,6 +42,8 @@ aula (veja
 
 - $$ f(x)=\sqrt{9-x^2} $$
 
+---
+
 2) Esboce o gráfico das funções abaixo, usando o programa
 computacional de sua preferência
 
@@ -59,6 +61,7 @@ computacional de sua preferência
 
 - $$f(x)=-\log_{10} x $$
 
+---
 
 3) Usando apenas as propriedades dos logaritmos, calcule
 
@@ -71,6 +74,8 @@ computacional de sua preferência
 - $$log_{10}72 $$
 
 Obs: $$log_{10}2=0.30$$ e  $$log_{10}3=0,47$$
+
+---
 
 4) Encontre a derivada das funções
 
