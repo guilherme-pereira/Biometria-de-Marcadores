@@ -136,7 +136,10 @@ tenha problemas, use o Fórum ou comunidade para tirar suas dúvidas.
 
 ```
 library(RCurl)
-x <- getURL("https://raw.githubusercontent.com/augusto-garcia/Biometria-de-Marcadores/gh-pages/datasets/maize.csv")
+
+x <-
+getURL("https://raw.githubusercontent.com/augusto-garcia/Biometria-de-Marcadores/gh-pages/datasets/maize.csv")
+
 data1 <- read.csv(text = x)
 ```
 
@@ -158,7 +161,9 @@ data1 <- read.csv(text = x)
 
 ```
 library(RCurl)
+
 getURL("https://raw.githubusercontent.com/augusto-garcia/Biometria-de-Marcadores/gh-pages/datasets/mouse.csv")
+
 data2 <- read.csv(text = x)
 ```
 
