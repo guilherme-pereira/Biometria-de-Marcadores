@@ -132,10 +132,12 @@ tenha problemas, use o Fórum ou comunidade para tirar suas dúvidas.
 
 3) Considere o arquivo de dados abaixo referente a uma população F2 que foi genotipada com um marcador codominante. Os dados fenotípicos ainda não serão analisados.
 
-  - Carregue os dados no R usando o comando
+  - Carregue os dados no R usando os comandos
 
 ```
-read.csv("http://dl.dropbox.com/u/1968009/maize.csv")
+library(RCurl)
+x <- getURL("https://raw.githubusercontent.com/augusto-garcia/Biometria-de-Marcadores/gh-pages/datasets/maize.csv")
+data1 <- read.csv(text = x)
 ```
 
   - Verifique se todos os locos possuem segregação mendeliana. Utilize alguma correção para múltiplos testes, caso isso seja necessário. Use o R para fazer as análises.
@@ -155,7 +157,9 @@ read.csv("http://dl.dropbox.com/u/1968009/maize.csv")
  aula ("mouse data"). Os dados podem ser obtidos no R usando
 
 ```
-read.csv("http://dl.dropbox.com/u/1968009/mouse.csv")
+library(RCurl)
+getURL("https://raw.githubusercontent.com/augusto-garcia/Biometria-de-Marcadores/gh-pages/datasets/mouse.csv")
+data2 <- read.csv(text = x)
 ```
 
   - Explique como usar o RStudio para criar uma página na internet
