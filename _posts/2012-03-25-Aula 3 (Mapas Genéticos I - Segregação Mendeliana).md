@@ -105,10 +105,10 @@ tenha problemas, use o Fórum ou comunidade para tirar suas dúvidas.
 
 ----
 
-2) Em seu clássico experimento, Mendel (1866) cruzou linhagens de ervilhas diferentes quanto à forma (e outras características), tendo obtido os resultado apresentados na tabela abaixo (população $F_2$). Considere cada uma das plantas separadamente e também o total de sementes para fazer os exercícios.
+2) Em seu clássico experimento, Mendel (1866) cruzou linhagens de ervilhas diferentes quanto à forma (e outras características), tendo obtido os resultado apresentados na tabela abaixo (população $$F_2$$). Considere cada uma das plantas separadamente e também o total de sementes para fazer os exercícios.
 
-  - Obter estimativas de máxima verossimilhança do parâmetro $\theta$ (probabilidade de uma dada semente ser lisa).
-  - Testar se esses valores diferem do esperado sob $H_0$. Use o R
+  - Obter estimativas de máxima verossimilhança do parâmetro $$\theta$$ (probabilidade de uma dada semente ser lisa).
+  - Testar se esses valores diferem do esperado sob $$H_0$$. Use o R
     para obter os p-valores. (Você já sabe fazer buscas sobre um
     função que faça isso, certo? A distribuição é de qui-quadrado, obviamente.)
   - Caso o gene que controla esse caráter não mostrasse dominância, qual distribuição de probabilidades deveria ser usada para analisar esses dados? Justifique.
