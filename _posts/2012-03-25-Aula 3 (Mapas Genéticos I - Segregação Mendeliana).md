@@ -135,12 +135,14 @@ tenha problemas, use o Fórum ou comunidade para tirar suas dúvidas.
   - Carregue os dados no R usando os comandos
 
 ```
+
 library(RCurl)
 
 x <-
 getURL("https://raw.githubusercontent.com/augusto-garcia/Biometria-de-Marcadores/gh-pages/datasets/maize.csv")
 
 data1 <- read.csv(text = x)
+
 ```
 
   - Verifique se todos os locos possuem segregação mendeliana. Utilize alguma correção para múltiplos testes, caso isso seja necessário. Use o R para fazer as análises.
@@ -160,11 +162,13 @@ data1 <- read.csv(text = x)
  aula ("mouse data"). Os dados podem ser obtidos no R usando
 
 ```
+
 library(RCurl)
 
 getURL("https://raw.githubusercontent.com/augusto-garcia/Biometria-de-Marcadores/gh-pages/datasets/mouse.csv")
 
 data2 <- read.csv(text = x)
+
 ```
 
   - Explique como usar o RStudio para criar uma página na internet
