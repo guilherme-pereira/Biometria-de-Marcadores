@@ -126,7 +126,6 @@ tenha problemas, use o Fórum ou comunidade para tirar suas dúvidas.
 |  8   |  22 |  10 |
 |  9   |  28 |   6 |
 |  10  |  25 |   7 |
-|--------------------------------------------|
 
 ----
 
@@ -139,7 +138,7 @@ tenha problemas, use o Fórum ou comunidade para tirar suas dúvidas.
 library(RCurl)
 
 x <-
-getURL("https://raw.githubusercontent.com/augusto-garcia/Biometria-de-Marcadores/gh-pages/datasets/maize.csv")
+getURL("https://raw.githubusercontent.com/augusto-garcia/Biometria-de-Marcadores/gh-pages/datasets/maize.csv", .opts = list(ssl.verifypeer = FALSE))
 
 data1 <- read.csv(text = x)
 
@@ -165,7 +164,7 @@ data1 <- read.csv(text = x)
 
 library(RCurl)
 
-getURL("https://raw.githubusercontent.com/augusto-garcia/Biometria-de-Marcadores/gh-pages/datasets/mouse.csv")
+x <- getURL("https://raw.githubusercontent.com/augusto-garcia/Biometria-de-Marcadores/gh-pages/datasets/mouse.csv", .opts = list(ssl.verifypeer = FALSE))
 
 data2 <- read.csv(text = x)
 
